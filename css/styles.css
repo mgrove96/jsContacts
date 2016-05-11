@@ -1,0 +1,18 @@
+.left {
+	width: 50%;
+	margin-left: 5%;
+	margin-right: 5%;
+	float:left;
+	display: inline-block;
+}
+
+.right {
+	width: 30%;
+	margin-right: 5%;
+	display: inline-block; 
+}
+
+.contact p {
+	cursor: pointer;
+	color: blue;
+}
